@@ -1,0 +1,24 @@
+.table {
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  text-align: center;
+  vertical-align: middle;
+  width: 400px;
+  font-size: 14px;
+}
+
+.row:nth-of-type(even) {
+  background-color: #dce1e4;
+}
+
+.headCell {
+  padding: 5px;
+  color: #ffffff;
+  background-color: #3cbcd6;
+  text-transform: uppercase;
+}
+
+.cell {
+  padding: 5px;
+}

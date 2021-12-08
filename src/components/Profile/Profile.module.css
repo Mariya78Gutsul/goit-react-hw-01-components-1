@@ -1,0 +1,36 @@
+.profile {
+  padding: 15px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  width: 400px;
+}
+.description {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.avatar {
+  display: block;
+  height: 150px;
+  border: 1px solid black;
+  border-radius: 100%;
+}
+
+.tag {
+  color: #a1abb6;
+}
+.location {
+  color: #a1abb6;
+}
+.stats {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.label {
+  display: block;
+  color: #a1abb6;
+}
